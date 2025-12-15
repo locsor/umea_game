@@ -26,8 +26,8 @@ jobs = pd.read_csv(jobs_url)
 def train_model():
 	global normalization_vals
 
-	# df_url = resource_path('data/data.csv')
-	df_data = pd.read_csv('data/data.csv')
+	df_url = resource_path('data/data.csv')
+	df_data = pd.read_csv(df_url)
 
 	for column in df_data.columns:
 		normalization_vals += [df_data[column].abs().max()]

@@ -90,6 +90,7 @@ class UI:
         self.profile_rect = self.profile.get_rect(center=(0.15*self.width, 0.25*self.height))
 
     def load_image(self, path, w, h):
+        path = resource_path(path)
         image = pygame.image.load(path)
         image = pygame.transform.scale(image, (w, h))
         return image

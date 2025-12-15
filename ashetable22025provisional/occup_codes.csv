@@ -1,0 +1,1917 @@
+1111/01,Chairpersons
+1111/02,Chief executives
+1111/03,Diplomats and foreign office officials
+1111/04,Senior public service officials
+1111/99,Chief executives and senior officials n.e.c.
+,Elected officers and representatives
+1112/01,Assembly members and Members of Parliament
+1112/02,Councillors
+1112/99,Elected officers and representatives n.e.c.
+,Production Managers and Directors
+,Production managers and directors in manufacturing
+1121/00,Production managers and directors in manufacturing
+,Production managers and directors in construction
+1122/00,Production managers and directors in construction
+,Production managers and directors in mining and energy
+1123/01,Managers and directors in the extraction of fossil fuels
+1123/02,Managers and directors in the production of energy
+1123/99,Production managers and directors in mining and energy n.e.c.
+,Functional Managers and Directors
+,Financial managers and directors
+1131/01,"Bank, building society and post office managers"
+1131/02,Company secretaries and finance managers and directors
+1131/03,Investment bankers and directors
+1131/99,Financial managers and directors n.e.c.
+,"Marketing, sales and advertising directors"
+1132/01,Advertising and marketing directors
+1132/02,Sales directors
+1132/99,"Marketing, sales and advertising directors n.e.c."
+,Public relations and communications directors
+1133/00,Public relations and communications directors
+,Purchasing managers and directors
+1134/01,Estimating managers and directors
+1134/02,Procurement and purchasing managers and directors
+1134/99,Purchasing managers and directors n.e.c.
+,Charitable organisation managers and directors
+1135/00,Charitable organisation managers and directors
+,Human resource managers and directors
+1136/01,Employee relations managers
+1136/02,"Equality, diversity and inclusion managers"
+1136/03,Learning and development managers and directors
+1136/04,Recruitment managers and directors
+1136/99,Human resources managers and directors n.e.c.
+,Information technology directors
+1137/01,Information security directors
+1137/02,Information technology operations directors
+1137/03,Information technology programme managers and directors
+1137/04,Information technology technical directors
+1137/99,Information technology directors n.e.c.
+,Functional managers and directors n.e.c.
+1139/01,Accounts directors
+1139/02,Administration directors
+1139/03,Complaints and customer service directors
+1139/04,Events directors
+1139/05,Intellectual property managers and directors
+1139/06,Municipal clerks
+1139/07,Research and development (R&D) directors
+1139/99,Functional managers and directors n.e.c.
+,"Directors in Logistics, Warehousing and Transport"
+,"Directors in logistics, warehousing and transport"
+1140/01,Supply chain directors
+1140/99,"Directors in logistics, warehousing and transport n.e.c."
+,Managers and Directors in Retail and Wholesale
+,Managers and directors in retail and wholesale
+1150/00,Managers and directors in retail and wholesale
+,Senior Officers in Protective Services
+,Officers in armed forces
+1161/01,Army officers
+1161/02,Royal Air Force officers
+1161/03,Royal Marines officers
+1161/04,Royal Navy officers
+1161/99,Officers in armed forces n.e.c.
+,Senior police officers
+1162/01,"Chief, deputy chief and assistant chief constables"
+1162/02,Chief inspectors
+1162/03,Chief superintendents
+1162/99,Senior police officers n.e.c.
+,"Senior officers in fire, ambulance, prison and related services"
+1163/01,Senior officers in ambulance services
+1163/02,Senior officers in fire services
+1163/03,Senior officers in immigration services
+1163/04,Senior officers in prison services
+1163/05,Senior officers in revenue and customs
+,Health and Social Services Managers and Directors
+,Health services and public health managers and directors
+1171/01,Clinical governance and information managers
+1171/02,Healthcare service managers and directors
+1171/99,Health services and public health managers and directors n.e.c.
+,Social services managers and directors
+1172/00,Social services managers and directors
+,OTHER MANAGERS AND PROPRIETORS
+,Managers and Proprietors in Agriculture Related Services
+,Managers and proprietors in agriculture and horticulture
+1211/00,Managers and proprietors in agriculture and horticulture
+,"Managers and proprietors in forestry, fishing and related services"
+1212/01,Cattery and kennel managers and proprietors
+1212/02,Fisheries managers and proprietors
+1212/03,Forestry managers
+1212/04,Livery yard and stud farm managers and proprietors
+1212/05,Racehorse trainers
+1212/99,"Managers and proprietors in forestry, fishing and related services n.e.c."
+,Managers and Proprietors in Hospitality and Leisure Services
+,Hotel and accommodation managers and proprietors
+1221/00,Hotel and accommodation managers and proprietors
+,Restaurant and catering establishment managers and proprietors
+1222/01,Caf? and restaurant managers and proprietors
+1222/02,Catering operations managers
+1222/03,Takeaway managers and proprietors
+1222/99,Restaurant and catering establishment managers and proprietors n.e.c.
+,Publicans and managers of licensed premises
+1223/00,Publicans and managers of licensed premises
+,Leisure and sports managers and proprietors
+1224/01,Cinema managers and proprietors
+1224/02,Golf course managers
+1224/03,"Gym, fitness and leisure services managers and proprietors"
+1224/04,Marina managers
+1224/05,Museum managers and proprietors
+1224/06,Parks and gardens managers
+1224/07,Theatre managers (excludes hospital service)
+1224/99,Leisure and sports managers and proprietors n.e.c.
+,Travel agency managers and proprietors
+1225/00,Travel agency managers and proprietors
+,Managers and Proprietors in Health and Care Services
+,Health care practice managers
+1231/01,Dental practice managers
+1231/02,Medical practice managers
+1231/03,Opticians managers
+1231/04,Veterinary practice managers
+1231/99,Health care practice managers n.e.c.
+,"Residential, day and domiciliary care managers and proprietors"
+1232/01,Day care managers
+1232/02,Home care managers
+1232/03,Residential care managers and proprietors
+1232/99,"Residential, day and domiciliary care managers and proprietors n.e.c."
+,Early education and childcare services proprietors
+1233/00,Early education and childcare services proprietors
+,"Managers in Logistics, Warehousing and Transport"
+,Managers in transport and distribution
+1241/01,Airport managers
+1241/02,Depot and fleet managers
+1241/03,Dispatch and distribution managers
+1241/04,Harbour and port managers
+1241/05,Road traffic managers
+1241/99,Managers in transport and distribution n.e.c.
+,Managers in storage and warehousing
+1242/00,Managers in storage and warehousing
+,Managers in logistics
+1243/00,Managers in logistics
+,Managers and Proprietors in Other Services
+,"Property, housing and estate managers"
+1251/01,Facilities managers
+1251/02,"Landlords, property and housing managers"
+1251/03,Property investors and developers
+1251/04,Sales and lettings managers
+1251/05,Shopping centre managers
+1251/99,"Property, housing and estate managers n.e.c."
+,Garage managers and proprietors
+1252/00,Garage managers and proprietors
+,Hairdressing and beauty salon managers and proprietors
+1253/01,Beauty salon managers and proprietors
+1253/02,Hairdressing managers and proprietors
+1253/99,Hairdressing and beauty salon managers and proprietors n.e.c.
+,Waste disposal and environmental services managers
+1254/01,Landfill site managers
+1254/02,Recycling managers
+1254/03,Scrap yard managers
+1254/04,Sewage works and water treatment managers
+1254/99,Waste disposal and environmental services managers n.e.c.
+,Managers and directors in the creative industries
+1255/01,Art gallery managers and directors
+1255/02,Film and television production managers
+1255/03,Publishing managers and directors
+1255/04,Radio production managers
+1255/05,Sport and talent agents
+1255/06,Theatre production managers
+1255/99,Managers and directors in the creative industries n.e.c.
+,Betting shop and gambling establishment managers
+1256/01,Betting shop managers
+1256/02,Bingo hall managers
+1256/03,Casino managers
+1256/99,Betting shop and gambling establishment managers n.e.c.
+,Hire services managers and proprietors
+1257/00,Hire services managers and proprietors
+,Directors in consultancy services
+1258/01,Design consultancy directors
+1258/02,Environmental consultancy directors
+1258/03,Management consultancy directors
+1258/04,Surveying consultancy directors
+1258/99,Directors in consultancy services n.e.c.
+,Managers and proprietors in other services n.e.c.
+1259/01,Cleaning and hygiene services managers and proprietors
+1259/02,Educational establishment managers and proprietors
+1259/03,Funeral services and crematorium managers and proprietors
+1259/04,Library managers
+1259/05,Recruitment agency managers and proprietors
+1259/06,Security services managers and proprietors
+1259/99,Managers and proprietors in other services n.e.c.
+,PROFESSIONAL OCCUPATIONS
+,"SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS"
+,Natural and social science professionals
+,Chemical scientists
+2111/01,Analytical chemists
+2111/02,Industrial chemists
+2111/03,Nuclear and radiochemists
+2111/04,Research and development chemists
+2111/99,Chemical scientists n.e.c.
+,Biological scientists
+2112/01,Agricultural scientists
+2112/02,Biologists
+2112/03,Botanical and horticultural scientists
+2112/04,Microbiologists and bacteriologists
+2112/05,Pathologists
+2112/06,Pharmacologists
+2112/07,Zoological scientists
+2112/99,Biological scientists n.e.c.
+,Biochemists and biomedical scientists
+2113/01,Biochemists
+2113/02,Biomedical scientists
+2113/03,Biotechnologists
+2113/04,Clinical scientists
+2113/99,Biochemists and biomedical scientists n.e.c.
+,Physical scientists
+2114/01,Geologists
+2114/02,Geophysicists
+2114/03,Hydrogeologists and hydrologists
+2114/04,Meteorologists
+2114/99,Physical scientists n.e.c.
+,Social and humanities scientists
+2115/01,Anthropologists
+2115/02,Archaeologists
+2115/03,Behavioural scientists
+2115/04,Epidemiologists
+2115/05,Genealogists
+2115/06,Geographic information systems (GIS) analysts
+2115/07,Historians
+2115/08,Political scientists
+2115/09,Public health analysts
+2115/99,Social and humanities scientists n.e.c.
+,Natural and social science professionals n.e.c.
+2119/01,Sports scientists
+2119/99,Natural and social science professionals n.e.c.
+,Engineering professionals
+,Civil engineers
+2121/01,Building and building services engineers
+2121/02,Geotechnical engineers
+2121/03,Mining engineers
+2121/04,Structural engineers
+2121/05,Transportation engineers
+2121/06,Water engineers (professional)
+2121/99,Civil engineers n.e.c.
+,Mechanical engineers
+2122/01,Automotive engineers (professional)
+2122/02,Marine engineers and naval architects
+2122/03,Mechanical design engineers
+2122/99,Mechanical engineers n.e.c.
+,Electrical engineers
+2123/01,Laser engineers
+2123/02,Power systems engineers
+2123/03,Railway signalling engineers
+2123/99,Electrical engineers n.e.c.
+,Electronics engineers
+2124/01,Broadcast engineers (professional)
+2124/02,Telecommunications engineers (professional)
+2124/99,Electronics engineers n.e.c.
+,Production and process engineers
+2125/01,Chemical engineers
+2125/02,Control and instrumentation engineers
+2125/03,Industrial and production engineers
+2125/99,Production and process engineers n.e.c.
+,Aerospace engineers
+2126/01,Aeronautical engineers (professional)
+2126/02,Aircraft engineers (professional)
+2126/03,Avionics engineers
+2126/99,Aerospace engineers n.e.c.
+,Engineering project managers and project engineers
+2127/00,Engineering project managers and project engineers
+,Engineering professionals n.e.c.
+2129/01,Acoustic engineers
+2129/02,Biomedical engineers
+2129/03,Brewers (qualified)
+2129/04,Clinical Engineers
+2129/05,Energy engineers
+2129/06,Food technologists
+2129/07,Gas engineers (professional)
+2129/08,Heating and ventilating engineers (professional)
+2129/09,Materials engineers
+2129/10,Mechatronic engineers
+2129/11,Nuclear engineers
+2129/12,Patent engineers
+2129/13,Robotics engineers
+2129/14,Traffic engineers
+2129/99,Engineering professionals n.e.c.
+,Information technology professionals
+,IT project managers
+2131/00,IT project managers
+,IT managers
+2132/01,IT information managers
+2132/02,IT product managers
+2132/03,IT service delivery managers
+2132/04,IT systems managers
+2132/05,IT test managers
+2132/06,Network managers
+2132/07,Software development managers
+2132/08,Technical support managers
+2132/99,IT managers n.e.c.
+,"IT business analysts, architects and systems designers"
+2133/01,Computer analysts and scientists
+2133/02,Data architects
+2133/03,Data engineers
+2133/04,IT systems architects
+2133/05,IT business analysts
+2133/06,IT solutions architects and designers
+2133/99,"IT business analysts, architects and systems designers n.e.c."
+,Programmers and software development professionals 
+2134/01,Computer games designers
+2134/02,Computer programmers
+2134/03,Software developers
+2134/99,Programmers and software development professionals n.e.c.
+,Cyber security professionals
+2135/01,Cyber operational defence specialists
+2135/02,Cyber security management and governance specialists
+2135/03,Forensic computer specialists
+2135/04,Secure system development specialists
+2135/99,Cyber security professionals n.e.c.
+,IT quality and testing professionals
+2136/00,IT quality and testing professionals
+,IT network professionals
+2137/00,IT network professionals
+,Information technology professionals n.e.c.
+2139/01,DevOps engineers
+2139/02,IT consultants
+2139/03,Webmasters and website managers
+2139/99,Information technology professionals n.e.c.
+,Web and multimedia design professionals
+,Web design professionals
+2141/01,Application designers
+2141/02,UI and UX designers and researchers
+2141/03,Web designers
+2141/99,Web design professionals n.e.c.
+,Graphic and multimedia designers
+2142/01,Multimedia animators
+2142/99,Graphic and multimedia designers n.e.c.
+,Conservation and environment professionals
+,Conservation professionals
+2151/01,Conservationists
+2151/02,Ecologists
+2151/03,Heritage officers
+2151/99,Conservation professionals n.e.c.
+,Environment professionals
+2152/01,Energy managers
+2152/02,Environmental and geo-environmental engineers
+2152/03,Environmental consultants
+2152/04,Environmental scientists
+2152/05,Sustainability officers
+2152/99,Environmental professionals n.e.c.
+,Research and development (R&D) and other research professionals
+,Research and development (R&D) managers 
+2161/01,Laboratory managers
+2161/02,Research and development (R&D) design managers
+2161/99,Research and development (R&D) managers n.e.c.
+,"Other researchers, unspecified discipline"
+2162/00,"Other researchers, unspecified discipline"
+,HEALTH PROFESSIONALS
+,Medical practitioners
+,Generalist medical practitioners
+2211/01,General practitioners
+2211/02,Public health doctors
+2211/99,Generalist medical practitioners n.e.c.
+,Specialist medical practitioners
+2212/01,Anaesthetists
+2212/02,Cardiologists
+2212/03,Dermatologists
+2212/04,Gastroenterologists
+2212/05,Gynaecologists and obstetricians
+2212/06,Haematologists
+2212/07,Homeopaths (medically qualified)
+2212/08,Neurologists
+2212/09,Oncologists
+2212/10,Paediatricians
+2212/11,Psychiatrists
+2212/12,Radiologists (medically qualified)
+2212/13,Rheumatologists
+2212/14,Surgeons
+2212/99,Specialist medical practitioners n.e.c.
+,Therapy professionals
+,Physiotherapists
+2221/00,Physiotherapists
+,Occupational therapists
+2222/00,Occupational therapists
+,Speech and language therapists
+2223/00,Speech and language therapists
+,Psychotherapists and cognitive behaviour therapists
+2224/01,Cognitive behavioural therapists
+2224/02,Psychotherapists
+2224/99,Psychotherapists and cognitive behaviour therapists n.e.c.
+,Clinical psychologists
+2225/00,Clinical psychologists
+,Other psychologists
+2226/01,Counselling psychologists
+2226/02,Educational psychologists
+2226/03,Forensic psychologists
+2226/04,Health psychologists
+2226/05,Occupational psychologists
+2226/06,Research psychologists
+2226/07,Sports psychologists
+2226/99,Other psychologists n.e.c.
+,Therapy professionals n.e.c.
+2229/01,Acupuncturists
+2229/02,Art therapists
+2229/03,Chiropractors and osteopaths
+2229/04,Drama therapists
+2229/05,Music therapists
+2229/06,Nutritionists
+2229/07,Orthoptists
+2229/08,Play therapists
+2229/09,Psychological wellbeing practitioners
+2229/10,Sports therapists
+2229/99,Therapy professionals n.e.c.
+,Nursing professionals
+,Midwifery nurses
+2231/00,Midwifery nurses
+,Registered community nurses
+2232/01,Learning disability community nurses
+2232/99,Registered community nurses n.e.c.
+,Registered specialist nurses
+2233/01,Diabetes specialist nurses
+2233/02,Intensive care nurses
+2233/03,Theatre nurses
+2233/99,Registered specialist nurses n.e.c.
+,Registered nurse practitioners
+2234/01,Mental health nurse practitioners
+2234/99,Registered nurse practitioners n.e.c.
+,Registered mental health nurses
+2235/00,Registered mental health nurses
+,Registered children's nurses
+2236/01,Neonatal nurses
+2236/02,Paediatric nurses
+2236/03,School nurses
+,Other registered nursing professionals 
+2237/00,Other registered nursing professionals
+,Veterinarians
+,Veterinarians
+2240/00,Veterinarians
+,Other health professionals
+,Pharmacists
+2251/00,Pharmacists
+,Optometrists
+2252/00,Optometrists
+,Dental practitioners
+2253/01,Dentists and dental surgeons
+2253/02,Endodontists
+2253/03,Orthodontists
+2253/04,Periodontists
+2253/99,Dental practitioners n.e.c.
+,Medical radiographers
+2254/01,Diagnostic radiographers and sonographers
+2254/02,Therapeutic radiographers
+2254/03,Vascular scientists
+2254/99,Medical radiographers n.e.c.
+,Paramedics
+2255/00,Paramedics
+,Podiatrists
+2256/00,Podiatrists
+,Other health professionals n.e.c.
+2259/01,Audiologists
+2259/02,Cardiac physiologists
+2259/03,Dietitians
+2259/04,Health promotion officers
+2259/05,Medical physicists and nuclear medicine scientists
+2259/06,Mental health workers
+2259/07,Occupational health advisers
+2259/08,Operating department practitioners
+2259/09,Orthotists and prosthetists
+2259/10,Respiratory physiologists
+2259/11,Sexual health advisers
+2259/99,Other health professionals n.e.c.
+,TEACHING AND OTHER EDUCATIONAL PROFESSIONALS
+,Teaching professionals
+,Higher education teaching professionals
+2311/00,Higher education teaching professionals
+,Further education teaching professionals
+2312/00,Further education teaching professionals
+,Secondary education teaching professionals
+2313/01,Teachers of art
+2313/02,Teachers of biology
+2313/03,Teachers of chemistry
+2313/04,Teachers of design technology
+2313/05,Teachers of drama
+2313/06,Teachers of economics
+2313/07,Teachers of English
+2313/08,Teachers of geography
+2313/09,Teachers of history
+2313/10,Teachers of ICT and computer science
+2313/11,Teachers of mathematics
+2313/12,Teachers of modern foreign languages
+2313/13,Teachers of music
+2313/14,Teachers of physical education
+2313/15,Teachers of physics
+2313/16,Teachers of psychology
+2313/17,Teachers of religious education
+2313/18,Teachers of science
+2313/19,Teachers of sociology
+2313/20,Teachers of Welsh
+2313/99,Secondary education teaching professionals n.e.c.
+,Primary education teaching professionals
+2314/00,Primary education teaching professionals
+,Nursery education teaching professionals
+2315/00,Nursery education teaching professionals
+,Special and additional needs education teaching professionals
+2316/01,Special and additional educational needs teachers and coordinators
+2316/02,Teachers of the deaf
+2316/03,Teachers of the visually impaired
+2316/99,Special and additional needs education teaching professionals n.e.c.
+,Teachers of English as a foreign language
+2317/00,Teachers of English as a Foreign Language
+,Teaching professionals n.e.c.
+2319/01,Adult education tutors
+2319/02,Dance and drama school principals and owners
+2319/03,Private music and singing teachers
+2319/04,Private tutors
+2319/99,Teaching professionals n.e.c.
+,Other educational professionals
+,Head teachers and principals
+2321/01,Heads of further education establishments
+2321/02,Heads of higher education establishments
+2321/03,Heads of nursery schools
+2321/04,Heads of primary schools
+2321/05,Heads of secondary schools and sixth form colleges
+2321/06,Heads of special needs education schools
+2321/99,Head teachers and principals n.e.c.
+,Education managers 
+2322/00,Education managers
+,Education advisers and school inspectors
+2323/01,Educational advisers
+2323/02,School inspectors
+,Early education and childcare services managers
+2324/00,Early education and childcare services managers
+,Other educational professionals n.e.c
+2329/01,Bursars
+2329/02,Educational administrators
+2329/03,Examiners and markers
+2329/99,Other educational professionals n.e.c.
+,"BUSINESS, MEDIA AND PUBLIC SERVICE PROFESSIONALS"
+,Legal professionals
+,Barristers and judges
+2411/01,Barristers and advocates
+2411/02,Judges
+2411/99,Barristers and judges n.e.c.
+,Solicitors and lawyers
+2412/01,Commercial solicitors and lawyers
+2412/02,Criminal solicitors and lawyers
+2412/03,Family solicitors and lawyers
+2412/04,Property solicitors and lawyers
+2412/99,Solicitors and lawyers n.e.c.
+,Legal professionals n.e.c.
+2419/01,Conveyancers
+2419/02,Litigation executives
+2419/03,Paralegals
+2419/04,Patent and trademark attorneys
+2419/99,Legal professionals n.e.c.
+,Finance professionals
+,Chartered and certified accountants
+2421/01,Auditors (qualified accountant)
+2421/02,Financial accountants (qualified)
+2421/03,Forensic accountants
+2421/04,Fund accountants
+2421/05,Insolvency practitoners
+2421/99,Chartered and certified accountants n.e.c.
+,Finance and investment analysts and advisers
+2422/01,Credit analysts
+2422/02,Financial advisers and planners
+2422/03,Financial analysts
+2422/04,Mortgage advisers
+2422/99,Finance and investment analysts and advisers n.e.c.
+,Taxation experts
+2423/00,Taxation experts
+,"Business, research and administrative professionals"
+,Management consultants and business analysts
+2431/01,Business analysts and consultants
+2431/02,Management advisers and consultants
+2431/03,Risk analysts
+2431/99,Management consultants and business analysts n.e.c.
+,Marketing and commercial managers
+2432/01,Commercial managers
+2432/02,Marketing managers
+2432/99,Marketing and commercial managers n.e.c.
+,"Actuaries, economists and statisticians"
+2433/01,Actuaries and actuarial analysts
+2433/02,Economists
+2433/03,Mathematicians
+2433/04,Statistical data scientists
+2433/05,Statisticians
+2433/99,"Actuaries, economists and statisticians n.e.c."
+,Business and related research professionals
+2434/01,Intelligence analysts
+2434/02,Researchers in media and entertainment
+2434/99,Business and related research professionals n.e.c.
+,Professional/Chartered company secretaries 
+2435/00,Professional/chartered company secretaries
+,"Business, research and administrative professionals n.e.c."
+2439/01,Policy officers
+2439/99,"Business, research and administrative professionals n.e.c."
+,Business and financial project management professionals
+,Business and financial project management professionals
+2440/01,Business change managers
+2440/02,Clinical trials coordinators
+2440/03,Risk managers
+2440/99,Business and financial project management professionals n.e.c.
+,"Architects, chartered architectural technologists, planning officers, surveyors and construction professionals"
+,Architects
+2451/01,Architects
+2451/02,Landscape architects and designers
+,"Chartered architectural technologists, planning officers and consultants"
+2452/01,Chartered architectural technologists
+2452/02,Town planning officers
+2452/03,Urban designers
+2452/99,"Chartered architectural technologists, planning officers and consultants n.e.c."
+,Quantity surveyors
+2453/00,Quantity surveyors
+,Chartered surveyors
+2454/01,Building control surveyors
+2454/02,Hydrographic surveyors
+2454/03,Land surveyors
+2454/04,Property surveyors
+2454/99,Chartered surveyors n.e.c.
+,Construction project managers and related professionals
+2455/01,Construction project and contract managers
+2455/02,Transport planners
+2455/99,Construction project managers and related professionals n.e.c.
+,Welfare professionals
+,Social workers
+2461/01,Adult social workers
+2461/02,"Children, family and school social workers"
+2461/03,Criminal justice social workers
+2461/04,Mental health and healthcare social workers
+2461/99,Social workers n.e.c.
+,Probation officers
+2462/00,Probation officers
+,Clergy
+2463/00,Clergy
+,Youth work professionals
+2464/00,Youth work professionals
+,Welfare professionals n.e.c.
+2469/01,Adoption officers
+2469/02,Children and family services professionals
+2469/03,Mediators and restorative practice professionals
+2469/99,Welfare professionals n.e.c.
+,Librarians and related professionals
+,Librarians
+2471/00,Librarians
+,"Archivists, conservators and curators"
+2472/01,Archivists
+2472/02,Collection managers and curators
+2472/03,Conservators
+2472/04,Museum education officers
+2472/99,"Archivists, conservators and curators n.e.c."
+,Quality and regulatory professionals
+,Quality control and planning engineers
+2481/01,Garment technologists
+2481/02,Planning engineers
+2481/03,Quality control engineers
+2481/99,Quality control and planning engineers n.e.c.
+,Quality assurance and regulatory professionals
+2482/01,Compliance and regulatory professionals
+2482/02,Quality assurance professionals
+,Environmental health professionals
+2483/00,Environmental health professionals
+,Media professionals
+,"Newspaper, periodical and broadcast editors"
+2491/00,"Newspaper, periodical and broadcast editors"
+,Newspaper and periodical broadcast journalists and reporters
+2492/01,Broadcast journalists
+2492/02,Newspaper journalists and reporters
+2492/99,Newspaper and periodical broadcast journalists and reporters n.e.c.
+,Public relations professionals
+2493/01,Press officers
+2493/02,Public relations officers
+2493/03,Social media managers
+2493/99,Public relations professionals n.e.c.
+,Advertising accounts managers and creative directors
+2494/01,Advertising account managers
+2494/02,Creative directors
+2494/03,Fundraising managers
+,ASSOCIATE PROFESSIONAL OCCUPATIONS
+,"SCIENCE, ENGINEERING AND TECHNOLOGY ASSOCIATE PROFESSIONALS"
+,"Science, Engineering and Production Technicians"
+,Laboratory technicians
+3111/01,Biological laboratory technicians
+3111/02,Chemical laboratory technicians
+3111/03,Health physics monitors
+3111/04,Laboratory food technicians
+3111/05,Medical laboratory technicians
+3111/99,Laboratory technicians n.e.c.
+,Electrical and electronics technicians 
+3112/01,Avionics technicians
+3112/99,Electrical and electronics technicians n.e.c.
+,Engineering technicians 
+3113/01,Aerospace technicians
+3113/02,Wind turbine technicians
+3113/99,Engineering technicians n.e.c.
+,Building and civil engineering technicians 
+3114/01,Building technicians
+3114/02,Civil engineering technicians
+3114/03,Surveying technicians
+3114/99,Building and civil engineering technicians n.e.c.
+,Quality assurance technicians 
+3115/00,Quality assurance technicians
+,"Planning, process and production technicians"
+3116/00,"Planning, process and production technicians"
+,"Science, engineering and production technicians n.e.c."
+3119/01,School technicians
+3119/02,Textile consultants
+3119/99,"Science, engineering and production technicians n.e.c."
+,"CAD, drawing and architectural technicians"
+,"CAD, drawing and architectural technicians"
+3120/01,Architectural technicians
+3120/02,BIM and CAD technicians
+3120/03,Cartographers
+3120/99,"CAD, drawing and architectural technicians n.e.c."
+,Information Technology Technicians
+,IT operations technicians
+3131/01,Games testers
+3131/02,Network and systems administrators
+3131/03,Quality assurance testers
+3131/04,Software technicians
+3131/99,IT operations technicians n.e.c.
+,IT user support technicians
+3132/00,IT user support technicians
+,Database administrators and web content technicians
+3133/01,Database administrators
+3133/02,Web content technicians
+3133/99,Database administrators and web content technicians n.e.c.
+,HEALTH AND SOCIAL CARE ASSOCIATE PROFESSIONALS
+,Health Associate Professionals
+,Dispensing opticians
+3211/00,Dispensing opticians
+,Pharmaceutical technicians
+3212/00,Pharmaceutical technicians
+,Medical and dental technicians
+3213/01,Cardiac technicians
+3213/02,Dental hygienists
+3213/03,Dental technicians
+3213/04,Hearing aid dispensers
+3213/05,Hearing screeners
+3213/06,Nursing associates
+3213/07,Orthotic and prosthetic technicians
+3213/99,Medical and dental technicians n.e.c.
+,Complementary health associate professionals
+3214/01,Alexander technique teachers
+3214/02,Aromatherapists
+3214/03,Homeopaths (excludes medically qualified)
+3214/04,Hospital play specialists
+3214/05,Hypnotherapists
+3214/06,Massage therapists
+3214/07,Reflexologists
+3214/08,Reiki healers
+3214/99,Complementary health associate professionals n.e.c.
+,Health associate professionals n.e.c.
+3219/01,Antenatal teachers
+3219/02,Dietetic assistants
+3219/03,Equine dentists
+3219/04,Foot health practitioners (excludes podiatrists)
+3219/05,Health trainers
+3219/06,Home economists
+3219/99,Health associate professionals n.e.c.
+,Welfare and Housing Associate Professionals
+,Youth and community workers
+3221/01,Community workers
+3221/02,Family support workers
+3221/03,Youth workers (excludes youth work professionals)
+3221/99,Youth and community workers n.e.c.
+,Child and early years officers
+3222/01,Child protection officers
+3222/02,Learning and behaviour mentors
+3222/03,Welfare and attendance officers
+3222/99,Child and early years officers n.e.c.
+,Housing officers
+3223/00,Housing officers
+,Counsellors
+3224/01,Bereavement counsellors
+3224/02,Debt advisers
+3224/03,Life coaches
+3224/04,Relationship counsellors
+3224/05,Substance misuse workers
+3224/99,Counsellors n.e.c.
+,Welfare and housing associate professionals n.e.c.
+3229/01,Advocates (excludes solicitor advocates)
+3229/02,Celebrants
+3229/03,Charity workers
+3229/04,Day care officers
+3229/05,Health advisers
+3229/06,Homelessness officers and support workers
+3229/07,Mental health project workers
+3229/08,Probation service workers
+3229/09,Student support workers
+3229/10,Victim support workers
+3229/99,Welfare and housing associate professionals n.e.c.
+,Teaching and Childcare Associate Professionals
+,Higher level teaching assistants
+3231/00,Higher level teaching assistants
+,Early education and childcare practitioners
+3232/00,Early education and childcare practitioners
+,Veterinary nurses
+,Veterinary nurses
+3240/00,Veterinary nurses
+,PROTECTIVE SERVICE OCCUPATIONS
+,Protective Service Occupations
+,Non-commissioned officers and other ranks
+3311/01,Non-commissioned Army officers and others ranks
+3311/02,Non-commissioned Royal Air Force officers and other ranks
+3311/03,Non-commissioned Royal Navy officers and other ranks
+3311/04,Royal Marines Commandos
+3311/99,Non-commissioned officers and other ranks n.e.c.
+,Police officers (sergeant and below)
+3312/01,Police constable
+3312/02,Police sergeant
+3312/99,Police officers (sergeant and below) n.e.c.
+,Fire service officers (watch manager and below)
+3313/01,Firefighters
+3313/02,Fire service crew managers
+3313/03,Watch managers
+3313/99,Fire service officers (watch manager and below) n.e.c.
+,Prison service officers (below principal officer)
+3314/01,Operational support grades
+3314/02,Prison officers
+3314/99,Prison service officers (below principal officer) n.e.c.
+,Protective service associate professionals n.e.c.
+3319/01,Coastguard
+3319/02,Customs and border control officers
+3319/03,Fraud investigators (excludes benefit fraud)
+3319/04,Immigration officers
+3319/05,Private investigators
+3319/06,Security consultants and managers (excludes cyber security)
+3319/99,Protective service associate professionals n.e.c.
+,"CULTURE, MEDIA AND SPORTS OCCUPATIONS"
+,"Artistic, Literary and Media Occupations"
+,Artists
+3411/01,Art technicians (excludes education)
+3411/02,Drawing and painting artists
+3411/03,Hand drawn animators
+3411/04,Illustrators (excludes medical and scientific)
+3411/05,Medical and scientific illustrators
+3411/06,Picture restorers
+3411/07,Sculptors
+3411/08,Tattoo and henna artists
+3411/99,Artists n.e.c.
+,"Authors, writers and translators"
+3412/01,Authors
+3412/02,Bloggers
+3412/03,Copywriters
+3412/04,Literary editors
+3412/05,Poets
+3412/06,Script writers
+3412/07,Technical writers (excludes computing)
+3412/08,Translators and interpreters
+3412/99,"Authors, writers and translators n.e.c."
+,"Actors, entertainers and presenters"
+3413/01,Actors
+3413/02,"Broadcasters, podcasters and presenters"
+3413/03,Children's entertainers
+3413/04,Comedians
+3413/05,Disc jockeys
+3413/06,Magicians
+3413/07,Models
+3413/08,Singers
+3413/09,Social media influencers
+3413/99,"Actors, entertainers and presenters n.e.c."
+,Dancers and choreographers
+3414/01,Choreographers
+3414/02,Dance teachers (excludes educational establishments)
+3414/03,Dancers
+,Musicians
+3415/01,Composers and musical arrangers
+3415/02,Music conductors
+3415/03,Instrumentalists
+3415/99,Musicians n.e.c.
+,"Arts officers, producers and directors"
+3416/01,Art consultants
+3416/02,Broadcasting and entertainment directors
+3416/03,Broadcasting and entertainment editors
+3416/04,Broadcasting and entertainment producers
+3416/05,Studio and stage managers
+3416/99,"Arts officers, producers and directors n.e.c."
+,"Photographers, audio-visual and broadcasting equipment operators"
+3417/01,Camera operators and videographers
+3417/02,Lighting designers
+3417/03,Photographers
+3417/04,Sound designers
+3417/05,Sound engineers
+3417/06,Theatre technicians (excludes hospitals)
+3417/99,"Photographers, audio-visual and broadcasting equipment operators n.e.c."
+,Design Occupations 
+,Interior designers
+3421/00,Interior designers
+,"Clothing, fashion and accessories designers"
+3422/01,Clothing and fashion consultants
+3422/02,Clothing and fashion designers
+3422/03,Footwear designers
+3422/04,Jewellery designers
+3422/05,Textile designers
+3422/99,"Clothing, fashion and accessories designers n.e.c."
+,Design occupations n.e.c.
+3429/01,Industrial and product designers
+3429/02,Packaging designers
+3429/03,Performance make-up artists
+3429/04,Set designers
+3429/05,Visual merchandising managers and designers
+3429/99,Design occupations n.e.c.
+,Sports and Fitness Occupations
+,Sports players
+3431/00,Sports players
+,"Sports coaches, instructors and officials"
+3432/01,Basketball coaches
+3432/02,Cricket coaches
+3432/03,Football coaches
+3432/04,Forest school practitioners
+3432/05,Golf coaches
+3432/06,Gymnastics coaches
+3432/07,Horse riding instructors
+3432/08,Martial arts instructors
+3432/09,Outdoor pursuits instructors
+3432/10,"Referees, umpires and other sports officials"
+3432/11,Rugby coaches
+3432/12,Sailing instructors
+3432/13,Ski instructors
+3432/14,Sports development officers
+3432/15,Swimming coaches
+3432/16,Tennis coaches
+3432/99,"Sports coaches, instructors and officials n.e.c."
+,Fitness and wellbeing instructors
+3433/01,Group fitness instructors and personal trainers
+3433/02,Pilates teachers
+3433/03,Yoga teachers
+3433/99,Fitness and wellbeing instructors n.e.c.
+,BUSINESS AND PUBLIC SERVICE ASSOCIATE PROFESSIONALS
+,Transport Associate Professionals
+,Aircraft pilots and air traffic controllers
+3511/01,Airline pilots
+3511/02,Air traffic controllers
+3511/03,Flying instructors
+3511/04,Helicopter pilots
+3511/99,Aircraft pilots and air traffic controllers n.e.c.
+,Ship and hovercraft officers
+3512/01,Ship and hovercraft captains and deck officers (excludes armed forces and fishing)
+3512/02,Marine engineers
+3512/99,Ship and hovercraft officers n.e.c.
+,Legal Associate Professionals
+,Legal associate professionals
+3520/01,Conveyancing professionals
+3520/02,Cost lawyers
+3520/03,Barrister's and judge's clerks
+3520/04,Litigation officers
+3520/05,Probate managers
+3520/06,Will writers
+3520/99,Legal associate professionals n.e.c.
+,Finance Associate Professionals
+,Brokers
+3531/01,Commodity brokers and traders
+3531/02,Insurance and mortgage brokers
+3531/03,Shipbrokers
+3531/04,Stockbrokers
+3531/99,Brokers n.e.c.
+,Insurance underwriters
+3532/00,Insurance underwriters
+,Financial and accounting technicians
+3533/01,Accounting technicians
+3533/02,Financial control technicians
+3533/99,Financial and accounting technicians n.e.c.
+,Financial accounts managers
+3534/01,Claims managers
+3534/02,Credit managers
+3534/03,Investment managers
+3534/04,Relationship managers
+3534/99,Financial accounts managers n.e.c.
+,Business Associate Professionals
+,"Estimators, valuers and assessors"
+3541/01,Energy advisers and assessors
+3541/02,Estimators
+3541/03,Loss adjusters
+3541/04,Valuers
+3541/05,Vehicle damage assessors
+3541/99,"Estimators, valuers and assessors n.e.c."
+,Importers and exporters
+3542/00,Importers and exporters
+,Project support officers
+3543/00,Project support officers
+,Data analysts
+3544/00,Data analysts
+,Business associate professionals n.e.c.
+3549/01,Business support officers
+3549/02,Business systems analysts
+3549/03,Contract administrators
+3549/04,Clinical coders
+3549/05,Clinical trials administrators
+3549/06,Research coordinators
+3549/99,Business associate professionals n.e.c.
+,"Sales, Marketing and Related Associate Professionals"
+,Buyers and procurement officers
+3551/00,Buyers and procurement officers
+,Business sales executives
+3552/00,Business sales executives
+,Merchandisers 
+3553/00,Merchandisers
+,Advertising and marketing associate professionals
+3554/01,Advertising and marketing executives
+3554/02,Fundraisers
+3554/03,Market researchers (excludes interviewers)
+3554/99,Advertising and marketing associate professionals n.e.c.
+,Estate agents and auctioneers
+3555/01,Estate agents
+3555/02,Land and property auctioneers and valuers
+3555/03,Letting agents
+3555/99,Estate agents and auctioneers n.e.c
+,Sales accounts and business development managers
+3556/01,Brand managers
+3556/02,Business development managers
+3556/03,Sales account managers
+3556/99,Sales accounts and business development managers n.e.c.
+,Events managers and organisers
+3557/01,Conference managers and organisers
+3557/02,Exhibition managers and organisers
+3557/03,Festival managers and organisers
+3557/04,Hospitality managers
+3557/05,Wedding planners and organisers
+3557/99,Event managers and organisers n.e.c.
+,Public Services Associate Professionals
+,Public services associate professionals
+3560/01,Electoral services officers
+3560/02,Health service administrators
+3560/03,Job Centre officers
+3560/04,Waste management officers
+3560/99,Public services associate professionals n.e.c.
+,"HR, Training and Other Vocational Associate Guidance Professionals"
+,Human resources and industrial relations officers
+3571/01,Equality and diversity officers
+3571/02,Human resources advisers
+3571/03,Recruitment consultants
+3571/99,Human resources and industrial relations officers n.e.c.
+,Careers advisers and vocational guidance specialists
+3572/01,Careers advisers and coaches
+3572/02,Work placement officers
+3572/99,Careers advisers and vocational guidance specialists n.e.c.
+,Information technology trainers
+3573/00,Information technology trainers
+,Other vocational and industrial trainers
+3574/01,Business coaches
+3574/02,Retail and store trainers
+3574/03,Training assessors
+3574/99,Other vocational and industrial trainers n.e.c.
+,Regulatory Associate Professionals
+,Inspectors of standards and regulations
+3581/01,Animal health inspectors and officers
+3581/02,Building control officers
+3581/03,Driving examiners
+3581/04,Health and safety inspectors
+3581/05,Housing and planning inspectors
+3581/06,Licensing officers
+3581/07,Meat hygiene inspectors
+3581/08,Nuclear safety inspectors
+3581/09,Trading standards officers
+3581/10,Traffic and vehicle examiners and inspectors
+3581/99,Inspectors of standards and regulations n.e.c.
+,Health and safety managers and officers
+3582/01,Asbestos safety officers
+3582/02,Fire safety managers and officers
+3582/03,Occupational health and safety managers and officers
+3582/04,Road traffic and transport safety officers
+3582/05,Occupational hygienists
+3582/99,Health and safety managers and officers n.e.c.
+,ADMINISTRATIVE AND SECRETARIAL OCCUPATIONS
+,ADMINISTRATIVE OCCUPATIONS
+,Administrative Occupations: Government and Related Organisations
+,National government administrative occupations
+4111/01,National government benefits officers
+4111/02,National government revenue officers
+4111/03,Passport officers
+4111/99,National government administrative occupations n.e.c.
+,Local government administrative occupations
+4112/01,Local government benefits officers
+4112/02,Local government housing assistants
+4112/03,Local government revenue officers
+4112/04,Parish clerks
+4112/99,Local government administrative occupations n.e.c.
+,Officers of non-governmental organisations
+4113/01,Charity administrators
+4113/02,Clerks to governors
+4113/03,Union officials
+4113/99,Officers of non-governmental organisations n.e.c.
+,Administrative Occupations: Finance
+,Credit controllers
+4121/00,Credit controllers
+,"Book-keepers, payroll managers and wages clerks"
+4122/01,Accounting clerks and bookkeepers
+4122/02,Payroll officers and wages clerks
+4122/99,"Bookkeepers, payroll managers and wage clerks n.e.c."
+,Bank and post office clerks
+4123/01,Bank and building society clerks
+4123/02,Post office clerks
+4123/99,Bank and post office clerks n.e.c.
+,Finance officers
+4124/00,Finance officers
+,Financial administrative occupations n.e.c.
+4129/01,Box office assistants
+4129/02,Grants officers
+4129/03,Mortgage administrators
+4129/04,Revenue assistants (excludes National and Local government revenue occupations)
+4129/05,Treasury assistants
+4129/99,Finance administrative occupations n.e.c.
+,Administrative Occupations: Records
+,Records clerks and assistants
+4131/01,Admissions officers
+4131/02,Court officers
+4131/03,Enumerators
+4131/04,Examinations officers
+4131/05,Indexers (excludes bookbinding)
+4131/06,Medical administrators and appointment clerks
+4131/07,Purchasing administrators
+4131/99,Records clerks and assistants n.e.c.
+,Pensions and insurance clerks and assistants
+4132/01,Claims handlers
+4132/02,Insurance administrators
+4132/03,Pensions administrators
+4132/99,Pensions and insurance clerks and assistants n.e.c.
+,Stock control clerks and assistants
+4133/00,Stock control clerks and assistants
+,Transport and distribution clerks and assistants
+4134/00,Transport and distribution clerks and assistants
+,Library clerks and assistants
+4135/00,Library clerks and assistants
+,Human resources administrative occupations
+4136/01,Recruitment administrators
+4136/02,Training administrators
+4136/99,Human resources administrative occupations n.e.c.
+,Administrative Occupations: Office Managers and Supervisors
+,Office managers
+4141/00,Office managers
+,Office supervisors
+4142/00,Office supervisors
+,Customer service managers
+4143/01,Call centre managers
+4143/99,Customer service managers n.e.c.
+,Other Administrative Occupations
+,Sales administrators
+4151/00,Sales administrators
+,Data entry administrators
+4152/00,Data entry administrators
+,Other administrative occupations n.e.c.
+4159/01,Business administrators
+4159/02,Church administrators
+4159/03,Facilities coordinators
+4159/04,Proofreaders
+4159/05,Property administrators
+4159/06,Warranty administrators
+4159/99,Other administrative occupations n.e.c.
+,SECRETARIAL AND RELATED OCCUPATIONS
+,Secretarial and Related Occupations
+,Medical secretaries
+4211/00,Medical secretaries
+,Legal secretaries
+4212/00,Legal secretaries
+,School secretaries
+4213/00,School secretaries
+,Company secretaries and administrators
+4214/00,Company secretaries and administrators
+,Personal assistants and other secretaries
+4215/01,Farm secretaries
+4215/02,Personal assistants (excludes care workers)
+4215/99,Personal assistants and other secretaries n.e.c.
+,Receptionists
+4216/00,Receptionists
+,Typists and related keyboard occupations
+4217/01,Stenographers
+4217/02,Transcribers
+4217/03,Typists
+4217/99,Typists and related keyboard occupations n.e.c.
+,SKILLED TRADES OCCUPATIONS
+,SKILLED AGRICULTURAL AND RELATED TRADES
+,Agricultural and Related Trades
+,Farmers
+5111/01,Agricultural contractors
+5111/02,Aquaculture farmers
+5111/03,Arable farmers
+5111/04,Dairy farmers
+5111/05,Livestock farmers
+5111/06,Poultry farmers
+5111/99,Farmers n.e.c.
+,Horticultural trades
+5112/00,Horticultural trades
+,Gardeners and landscape gardeners
+5113/01,Garden designers
+5113/02,Gardeners (excludes horticultural/market gardening)
+5113/03,Green roof installers
+5113/04,Landscape gardeners
+5113/99,Gardeners and landscape gardeners n.e.c.
+,Groundsmen and greenkeepers
+5114/00,Groundsmen and greenkeepers
+,Agricultural and fishing trades n.e.c.
+5119/01,Arborists
+5119/02,Beekeepers
+5119/03,Countryside and park officers and rangers
+5119/04,Falconers
+5119/05,Fish and river keepers
+5119/06,Fishers
+5119/07,Gamekeepers
+5119/99,Agricultural and fishing trades n.e.c.
+,"SKILLED METAL, ELECTRICAL AND ELECTRONIC TRADES"
+,"Metal Forming, Welding and Related Trades"
+,Sheet metal workers
+5211/01,Metal fabricators and finishers
+5211/02,Panel beaters (excludes vehicles)
+5211/03,Whitesmiths
+5211/99,Sheet metal workers n.e.c.
+,"Metal plate workers, smiths, moulders and related occupations"
+5212/01,Die casters
+5212/02,Farriers
+5212/03,"Moulders, mould makers and core makers"
+5212/04,Smiths
+5212/99,"Metal plate workers, smiths, moulders and related occupations n.e.c."
+,Welding trades
+5213/01,Braziers and solderers
+5213/02,Pipe welders
+5213/03,Plate welders
+5213/99,Welding trades n.e.c.
+,Pipe fitters
+5214/00,Pipe fitters
+,"Metal Machining, Fitting and Instrument Making Trades"
+,Metal machining setters and setter-operators
+5221/01,Computer numerical control (CNC) machine setters and setter-operators
+5221/99,Metal machining setters and setter-operators n.e.c.
+,"Tool makers, tool fitters and markers-out"
+5222/01,Tool fitters
+5222/02,Tool makers
+5222/99,"Tool makers, tool fitters and markers-out n.e.c."
+,Metal working production and maintenance fitters
+5223/01,Automation maintenance technicians
+5223/02,Bicycle mechanics
+5223/03,Catering equipment technicians
+5223/04,Door fitters and makers
+5223/05,Gunsmiths
+5223/06,Heavy plant maintenance technicians
+5223/07,Hydraulic technicians
+5223/08,Lift technicians
+5223/09,Locksmiths
+5223/10,Pump technicians
+5223/11,Textile machine technicians
+5223/12,Turbine fitters
+5223/99,Metal working production and maintenance fitters n.e.c.
+,Precision instrument makers and repairers
+5224/01,Calibration and precision instrument technicians
+5224/02,Camera and photographic equipment technicians
+5224/03,"Horologists, watch makers and repairers"
+5224/04,Optical technicians
+5224/99,Precision instrument makers and repairers n.e.c.
+,Air-conditioning and refrigeration installers and repairers
+5225/00,Air-conditioning and refrigeration installers and repairers
+,Vehicle Trades
+,"Vehicle technicians, mechanics and electricians"
+5231/01,Auto electricians
+5231/02,Car/light vehicle technicians
+5231/03,Heavy and large vehicle technicians
+5231/04,Motorcycle technicians
+5231/05,Motorsport technicians
+5231/06,MOT testers
+5231/07,Roadside assistance technicians
+5231/99,"Vehicle technicians, mechanics and electricians n.e.c."
+,Vehicle body builders and repairers 
+5232/00,Vehicle body builders and repairers
+,Vehicle paint technicians
+5233/00,Vehicle paint technicians
+,Aircraft maintenance and related trades
+5234/00,Aircraft maintenance and related trades
+,Boat and ship builders and repairers
+5235/00,Boat and ship builders and repairers
+,Rail and rolling stock builders and repairers
+5236/00,Rail and rolling stock builders and repairers
+,Electrical and Electronic Trades
+,Electricians and electrical fitters
+5241/01,Electric vehicle charging point installers
+5241/02,Electro-mechanical technicians
+5241/03,Installation and maintenance electricians
+5241/04,Smart energy experts
+5241/05,Solar panel installers
+5241/06,Street lighting electrician
+5241/99,Electricians and electrical fitters n.e.c.
+,Telecoms and related network installers and repairers
+5242/00,Telecoms and related network installers and repairers
+,"TV, video and audio servicers and repairers"
+5243/00,"TV, video and audio servicers and repairers"
+,Computer system and equipment installers and servicers
+5244/00,Computer system and equipment installers and servicers
+,Security system installers and repairers
+5245/00,Security system installers and repairers
+,Electrical service and maintenance mechanics and repairers
+5246/00,Electrical service and maintenance mechanics and repairers
+,Electrical and electronic trades n.e.c.
+5249/01,Broadcast and communications technicians
+5249/02,Overhead line workers
+5249/03,Signal workers
+5249/99,Electrical and electronic trades n.e.c.
+,"Skilled Metal, Electrical and Electronic Trades Supervisors"
+,"Skilled metal, electrical and electronic trades supervisors"
+5250/00,"Skilled metal, electrical and electronic trades supervisors"
+,SKILLED CONSTRUCTION AND BUILDING TRADES
+,Construction and Building Trades
+,Steel erectors
+5311/00,Steel erectors
+,Stonemasons and related trades
+5312/01,Dry stone wallers
+5312/02,Monumental masons
+5312/03,Stonemasons
+5312/99,Stonemasons and related trades n.e.c.
+,Bricklayers 
+5313/00,Bricklayers
+,"Roofers, roof tilers and slaters"
+5314/01,Felt and flat roofers
+5314/02,Sheeters and cladders
+5314/03,Thatchers
+5314/04,Tilers and slaters
+5314/99,"Roofers, roof tilers and slaters n.e.c."
+,Plumbers and heating and ventilating installers and repairers
+5315/00,Plumbers and heating and ventilation installers and repairers
+,Carpenters and joiners
+5316/01,Bedroom and kitchen fitters
+5316/02,Carpenters
+5316/03,Joiners
+5316/99,Carpenters and joiners n.e.c.
+,"Glaziers, window fabricators and fitters"
+5317/01,Glass cutters and glaziers
+5317/02,Window fabricators
+5317/03,Window fitters
+5317/99,"Glaziers, window fabricators and fitters n.e.c."
+,Construction and building trades n.e.c.
+5319/01,Builders
+5319/02,Divers
+5319/03,Fence erectors
+5319/04,Industrial climbers
+5319/05,Remotely Operated Vehicle (ROV) operators
+5319/06,Steel fixers and underpinners
+5319/99,Construction and building trades n.e.c.
+,Building Finishing Trades
+,Plasterers
+5321/01,Dry liners
+5321/02,Plasterers (wall and decorative)
+,Floorers and wall tilers
+5322/01,Carpet and linoleum fitters
+5322/02,Floor layers
+5322/03,Tilers
+5322/99,Floorers and wall tilers n.e.c.
+,Painters and decorators
+5323/00,Painters and decorators
+,Construction and Building Trades Supervisors
+,Construction and building trades supervisors
+5330/01,Carpenter and joinery supervisors
+5330/02,Demolition supervisors
+5330/03,Painting supervisors
+5330/04,Plumbing supervisors
+5330/05,Road construction supervisors
+5330/06,Roofing supervisors
+5330/07,Scaffolding supervisors
+5330/99,Construction and building trade supervisors n.e.c.
+,"TEXTILES, PRINTING AND OTHER SKILLED TRADES"
+,Textiles and Garments Trades
+,Upholsterers
+5411/01,Curtain makers
+5411/02,Trimmers and upholsterers
+5411/99,Upholsterers n.e.c.
+,Footwear and leather working trades
+5412/01,Footwear makers and repairers
+5412/02,Leather workers (excludes leather dressing)
+5412/99,Footwear and leather working trades n.e.c.
+,Tailors and dressmakers
+5413/01,Costume makers
+5413/02,Dressmakers
+5413/03,Fitters and alterations assistants
+5413/04,Kilt makers
+5413/05,"Milliners (excludes wholesale, retail trade)"
+5413/06,Tailors
+5413/99,Tailors and dressmakers n.e.c.
+,"Textiles, garments and related trades n.e.c."
+5419/01,Embroiderers and sewers
+5419/02,Knitters
+5419/03,Sail makers
+5419/04,"Weavers (excludes basket, wig and wire goods mfr)"
+5419/99,"Textiles, garments and related trades n.e.c."
+,Printing Trades
+,Pre-press technicians
+5421/00,Pre-press technicians
+,Printers
+5422/01,Digital printers
+5422/02,Flexographic printers
+5422/03,Lithographic printers
+5422/04,Screen printers
+5422/99,Printers n.e.c.
+,Print finishing and binding workers
+5423/00,Print finishing and binding workers
+,Food Preparation and Hospitality Trades
+,Butchers
+5431/01,Butchers
+5431/02,Slaughterers
+,Bakers and flour confectioners
+5432/01,Bakers (excludes food process bakery workers and textile manufacturing)
+5432/02,Cake decorators and designers
+5432/99,Bakers and flour confectioners n.e.c.
+,Fishmongers and poultry dressers
+5433/01,Fishmongers
+5433/02,Poultry dressers
+5433/99,Fishmongers and poultry dressers n.e.c.
+,Chefs
+5434/00,Chefs
+,Cooks
+5435/00,Cooks
+,Catering and bar managers
+5436/00,Catering and bar managers
+,Other Skilled Trades
+,"Glass and ceramics makers, decorators and finishers"
+5441/01,"Ceramic makers, decorators and finishers"
+5441/02,Ceramic potters
+5441/03,Glass blowers
+5441/04,"Glass makers, decorators and finishers"
+5441/05,Optical glass makers
+5441/99,"Glass and ceramics makers, decorators and finishers n.e.c."
+,Furniture makers and other craft woodworkers
+5442/01,Cabinet makers (excludes metal)
+5442/02,Furniture makers and fitters
+5442/03,Furniture restorers
+5442/04,Furniture sprayers and finishers
+5442/05,Picture framers
+5442/06,Shed makers
+5442/99,Furniture makers and other craft woodworkers n.e.c.
+,Florists
+5443/00,Florists
+,Other skilled trades n.e.c.
+5449/01,Basket makers (excludes wire goods mfr)
+5449/02,Candle makers
+5449/03,"Goldsmiths, silversmiths, jewellers and precious stone workers"
+5449/04,Hairpiece and wig makers
+5449/05,Metal engravers
+5449/06,Craft model makers
+5449/07,"Musical instrument repairers, makers and tuners"
+5449/08,Sign makers and writers
+5449/09,Toy makers and repairers
+5449/99,Other skilled trades n.e.c.
+,"CARING, LEISURE AND OTHER SERVICE OCCUPATIONS"
+,CARING PERSONAL SERVICE OCCUPATIONS
+,Teaching and Childcare Support Occupations
+,Early education and childcare assistants
+6111/00,Early education and childcare assistants
+,Teaching assistants
+6112/01,Cover supervisors
+6112/02,School teaching assistants
+6112/99,Teaching assistants n.e.c.
+,Educational support assistants
+6113/01,Behaviour support assistants
+6113/02,Communication support assistants
+6113/03,Learning support assistants
+6113/99,Educational support assistants n.e.c.
+,Childminders
+6114/00,Childminders
+,Nannies and au pairs
+6116/01,Au pairs
+6116/02,Nannies
+,Playworkers
+6117/00,Playworkers
+,Animal Care and Control Services
+,Pest control officers
+6121/01,Fumigators
+6121/02,Mole catchers
+6121/03,Rodent control officers
+6121/99,Pest control officers n.e.c.
+,Animal care services occupations n.e.c.
+6129/01,Animal boarding assistants
+6129/02,Animal breeders
+6129/03,Animal groomers
+6129/04,Animal trainers (excludes performing animals)
+6129/05,Animal walkers
+6129/06,Animal welfare workers
+6129/07,Stable workers
+6129/08,Veterinary assistants
+6129/09,Zookeepers
+6129/99,Animal care services occupations n.e.c.
+,Caring Personal Services
+,Nursing auxiliaries and assistants
+6131/01,Blood donor carers and phlebotomists
+6131/02,First aid trainers
+6131/03,Maternity care assistants
+6131/04,Occupational therapy assistants
+6131/05,Physiotherapy assistants
+6131/06,Radiography assistants
+6131/07,Speech and language therapy assistants
+6131/08,Sterile services assistants
+6131/09,Theatre assistants (excludes entertainment)
+6131/99,Nursing auxiliaries and assistants n.e.c.
+,Ambulance staff (excluding paramedics)
+6132/00,Ambulance staff (excluding paramedics)
+,Dental nurses
+6133/00,Dental nurses
+,Houseparents and residential wardens
+6134/01,Foster carers
+6134/02,Residential childcare practitioners
+6134/03,School matrons and houseparents
+6134/04,Residential housing wardens
+6134/99,Houseparents and residential wardens n.e.c.
+,Care workers and home carers
+6135/01,Community support workers
+6135/02,Home care workers
+6135/03,Residential care workers
+6135/99,Care workers and home carers n.e.c.
+,Senior care workers
+6136/01,Senior community support workers
+6136/02,Senior home care workers
+6136/03,Senior residential care workers
+6136/99,Senior care workers n.e.c.
+,Care escorts
+6137/00,Care escorts
+,"Undertakers, mortuary and crematorium assistants"
+6138/01,Crematorium assistants
+6138/02,Driver-bearers
+6138/03,Embalmers
+6138/04,Funeral directors and undertakers
+6138/05,Taxidermists
+6138/99,"Undertakers, mortuary and crematorium assistants n.e.c."
+,"LEISURE, TRAVEL AND RELATED PERSONAL SERVICE OCCUPATIONS"
+,Leisure and Travel Services
+,Sports and leisure assistants
+6211/01,Bookmakers
+6211/02,Croupiers
+6211/03,Film and television runners
+6211/04,Leisure and recreation assistants
+6211/05,Lifeguards
+6211/06,Museum and heritage assistants
+6211/99,Sports and leisure assistants n.e.c.
+,Travel agents
+6212/00,Travel agents
+,Air travel assistants
+6213/01,Flight attendants
+6213/02,Passenger services assistants
+6213/99,Air travel assistants n.e.c.
+,Rail travel assistants
+6214/01,Railway station assistants
+6214/02,Revenue protection officers
+6214/03,Train conductors and guards
+6214/99,Rail travel assistants n.e.c.
+,Leisure and travel service occupations n.e.c.
+6219/01,Holiday representatives
+6219/02,Ship stewards (excludes catering)
+6219/03,Tour guides
+6219/04,Tourist information assistants
+6219/99,Leisure and travel service occupations n.e.c.
+,Hairdressers and Related Services
+,Hairdressers and barbers
+6221/01,Barbers
+6221/02,Hairdressers
+6221/99,Hairdressers and barbers n.e.c.
+,Beauticians and related occupations
+6222/01,Body piercers
+6222/02,Make-up artists (excludes performance make-up)
+6222/03,Nail technicians
+6222/04,Weight loss advisers
+6222/99,Beauticians and related occupations n.e.c.
+,Housekeeping and Related Services
+,Housekeepers and related occupations
+6231/00,Housekeepers and related occupations
+,Caretakers
+6232/00,Caretakers
+,Cleaning and Housekeeping Managers and Supervisors
+,Cleaning and housekeeping managers and supervisors
+6240/00,Cleaning and housekeeping managers and supervisors
+,Bed and Breakfast and Guest House Owners and Proprietors 
+,Bed and breakfast and guest house owners and proprietors 
+6250/00,Bed and breakfast and guest house owners and proprietors
+,COMMUNITY AND CIVIL ENFORCEMENT OCCUPATIONS
+,Community and Civil Enforcement Occupations
+,Police community support officers
+6311/00,Police community support officers
+,Parking and civil enforcement occupations
+6312/01,Car park attendants
+6312/02,Civil enforcement officers
+6312/03,Neighbourhood wardens
+6312/99,Parking and civil enforcement occupations n.e.c.
+,SALES AND CUSTOMER SERVICE OCCUPATIONS
+,SALES OCCUPATIONS
+,Sales Assistants and Retail Cashiers
+,Sales and retail assistants
+7111/00,Sales and retail assistants
+,Retail cashiers and check-out operators
+7112/00,Retail cashiers and check-out operators
+,Telephone salespersons
+7113/00,Telephone salespersons
+,Pharmacy and optical dispensing assistants
+7114/01,Optical dispensing assistants
+7114/02,Pharmacy dispensing assistants
+7114/99,Pharmacy and optical dispensing assistants n.e.c.
+,Vehicle and parts salespersons and advisers
+7115/01,Vehicle parts advisers
+7115/02,Vehicle sales executives
+,Sales Related Occupations
+,Collector salespersons and credit agents
+7121/00,Collector salespersons and credit agents
+,"Debt, rent and other cash collectors"
+7122/01,Bailiffs
+7122/02,Debt collectors
+7122/03,Meter readers
+7122/04,Pawn brokers
+7122/05,Vending machine operators
+7122/99,"Debt, rent and other cash collectors n.e.c."
+,Roundspersons and van salespersons
+7123/00,Roundspersons and van salespersons
+,Market and street traders and assistants
+7124/00,Market and street traders and assistants
+,Visual merchandisers and related occupations
+7125/01,Fashion stylists
+7125/02,Visual merchandisers and window dressers
+7125/99,Visual merchandisers and related occupations n.e.c.
+,Sales related occupations n.e.c.
+7129/01,Demonstrators and product promoters
+7129/02,Hire desk controllers
+7129/03,Sales energy consultants
+7129/99,Sales related occupations n.e.c.
+,Shopkeepers and Sales Supervisors
+,Shopkeepers and owners - retail and wholesale
+7131/01,Antique dealers
+7131/02,Art dealers
+7131/03,Car traders
+7131/04,Newsagents
+7131/05,Retail jewellers
+7131/06,Wholesalers
+7131/07,Wine merchants
+7131/99,Shopkeepers and owners - retail and wholesale n.e.c.
+,Sales supervisors - retail and wholesale 
+7132/00,Sales supervisors - retail and wholesale
+,CUSTOMER SERVICE OCCUPATIONS
+,Customer Service Occupations
+,Call and contact centre occupations
+7211/00,Call and contact centre occupations
+,Telephonists
+7212/00,Telephonists
+,Communication operators
+7213/01,Air traffic control assistants
+7213/02,Emergency services call handlers
+7213/03,Taxi controllers
+7213/99,Communication operators n.e.c.
+,Market research interviewers
+7214/01,Field and telephone interviewers
+7214/02,Mystery shoppers
+7214/03,Political canvassers
+7214/04,Traffic enumerators
+,Customer service occupations n.e.c.
+7219/01,Student ambassadors
+7219/99,Customer service occupations n.e.c.
+,Customer Service Supervisors
+,Customer service supervisors
+7220/00,Customer service supervisors
+,"PROCESS, PLANT AND MACHINE OPERATIVES"
+,"PROCESS, PLANT AND MACHINE OPERATIVES"
+,Process Operatives
+,"Food, drink and tobacco process operatives"
+8111/01,Brewery and distillery workers
+8111/02,Dairy workers
+8111/03,Food process bakery workers
+8111/04,Tobacco workers
+8111/99,"Food, drink and tobacco process operatives n.e.c."
+,Textile process operatives
+8112/00,Textile process operatives
+,Chemical and related process operatives
+8113/00,Chemical and related process operatives
+,Plastics process operatives
+8114/01,Plastic fabricators
+8114/99,Plastics process operatives n.e.c.
+,Metal making and treating process operatives
+8115/01,Galvanisers and platers
+8115/02,Metal sprayers and powder coaters
+8115/99,Metal making and treating process operatives n.e.c.
+,Process operatives n.e.c.
+8119/01,Ceramic workers
+8119/02,Concrete operatives (concrete production)
+8119/03,Glass workers (excludes agriculture)
+8119/04,Rubber workers
+8119/99,Process operatives n.e.c.
+,Metal Working Machine Operatives
+,Metal working machine operatives 
+8120/01,Press and stamp operators
+8120/99,Metal working machine operatives n.e.c.
+,Plant and Machine Operatives
+,Paper and wood machine operatives
+8131/00,Paper and wood machine operatives
+,Mining and quarry workers and related operatives
+8132/01,Coal miners and quarry workers
+8132/02,Offshore drilling workers
+8132/99,Mining and quarry workers and related operatives n.e.c.
+,Energy plant operatives
+8133/01,Boiler operatives
+8133/02,Compressor operatives
+8133/03,Nuclear decommissioning operatives
+8133/99,Energy plant operatives n.e.c.
+,Water and sewerage plant operatives
+8134/01,Water and sewerage distribution operatives
+8134/02,Water treatment operatives
+8134/99,Water and sewerage plant operatives n.e.c.
+,Printing machine assistants
+8135/00,Printing machine assistants
+,Plant and machine operatives n.e.c.
+8139/01,Aerial installers
+8139/02,Cable operatives
+8139/03,Laser operators
+8139/04,Spring makers
+8139/05,Plant and machine breakers and dismantlers
+8139/99,Plant and machine operatives n.e.c.
+,Assemblers and Routine Operatives
+,Assemblers (electrical and electronic products)
+8141/00,Assemblers (electrical and electronic products)
+,Assemblers (vehicles and metal goods)
+8142/01,Metal goods assemblers (excludes vehicles)
+8142/02,Vehicle and vehicle part assemblers
+8142/99,Assemblers (vehicles and metal goods) n.e.c.
+,Routine inspectors and testers
+8143/00,Routine inspectors and testers
+,"Weighers, graders and sorters"
+8144/00,"Weighers, graders and sorters"
+,"Tyre, exhaust and windscreen fitters"
+8145/01,Tyre technicians
+8145/02,Windscreen fitters
+8145/99,"Tyre, exhaust and windscreen fitters n.e.c."
+,Sewing machinists
+8146/00,Sewing machinists
+,Assemblers and routine operatives n.e.c.
+8149/00,Assemblers and routine operatives n.e.c.
+,Construction Operatives
+,"Scaffolders, stagers and riggers"
+8151/01,Engineering construction riggers
+8151/02,Scaffolders and stagers
+8151/99,"Scaffolders, stagers and riggers n.e.c."
+,Road construction operatives
+8152/00,Road construction operatives
+,Rail construction and maintenance operatives
+8153/00,Rail construction and maintenance operatives
+,Construction operatives n.e.c.
+8159/01,Asbestos removers
+8159/02,Blind fitters
+8159/03,Building maintenance operatives
+8159/04,Cable layers
+8159/05,Ceiling fitters
+8159/06,Demolition operatives
+8159/07,Drainage operatives
+8159/08,Insulation engineers
+8159/09,Pipe layers (excludes pipe fitters)
+8159/10,Sign fitters (excludes electrical fitters)
+8159/99,Construction operatives n.e.c.
+,"Production, Factory and Assembly Supervisors "
+,"Production, factory and assembly supervisors"
+8160/00,"Production, factory and assembly supervisors"
+,TRANSPORT AND MOBILE MACHINE DRIVERS AND OPERATIVES
+,Road Transport Drivers
+,Heavy and large goods vehicle drivers
+8211/00,Heavy and large goods vehicle drivers
+,Bus and coach drivers
+8212/00,Bus and coach drivers
+,Taxi and cab drivers and chauffeurs
+8213/00,Taxi and cab drivers and chauffeurs
+,Delivery drivers and couriers
+8214/01,Bicycle and motorcycle couriers
+8214/99,Delivery drivers and couriers n.e.c.
+,Driving instructors
+8215/01,Cycling instructors
+8215/02,Forklift instructors
+8215/03,Heavy and large vehicle driving instructors
+8215/04,Motorcycle instructors
+8215/05,Passenger carrying vehicle (PCV) and car driving instructors
+8215/99,Driving instructors n.e.c.
+,Road transport drivers n.e.c.
+8219/00,Road transport drivers n.e.c.
+,Mobile Machine Drivers and Operatives
+,Crane drivers
+8221/00,Crane drivers
+,Fork-lift truck drivers
+8222/00,Fork-lift truck drivers
+,Mobile machine drivers and operatives n.e.c.
+8229/01,Agricultural machinery operators
+8229/99,Mobile machine drivers and operatives n.e.c.
+,Other Drivers and Transport Operatives
+,Train and tram drivers
+8231/00,Train and tram drivers
+,Marine and waterways transport operatives
+8232/00,Marine and waterways transport operatives
+,Air transport operatives
+8233/01,Aircraft refuellers
+8233/02,Baggage handlers and ramp agents
+8233/99,Air transport operatives n.e.c.
+,Rail transport operatives
+8234/01,Level crossing attendants
+8234/02,Railway controllers and signallers
+8234/03,Shunters (excludes passenger road transport)
+8234/99,Rail transport operatives n.e.c.
+,Other drivers and transport operatives n.e.c.
+8239/00,Other drivers and transport operatives n.e.c.
+,ELEMENTARY OCCUPATIONS
+,ELEMENTARY TRADES AND RELATED OCCUPATIONS
+,Elementary Agricultural Occupations
+,Farm workers
+9111/00,Farm labourers
+,Forestry and related workers
+9112/01,Forest workers
+9112/02,Park wardens
+9112/99,Forestry and related workers n.e.c.
+,Fishing and other elementary agriculture occupations n.e.c.
+9119/01,Cutters and pickers
+9119/02,Fisheries and aquaculture labourers
+9119/03,Garden and park labourers
+9119/04,Milkers
+9119/05,Sheep shearers
+9119/99,Fishing and other elementary agriculture occupations n.e.c.
+,Elementary Construction Occupations
+,Groundworkers
+9121/00,Groundworkers
+,Elementary construction occupations n.e.c.
+9129/01,Builder's labourers
+9129/02,Carpenter and joiner assistants
+9129/03,Construction electrician's assistants
+9129/04,Grave diggers
+9129/05,Insulation labourers
+9129/06,Marquee erectors
+9129/07,Plumber's assistants
+9129/99,Elementary construction occupations n.e.c.
+,Elementary Process Plant Occupations
+,Industrial cleaning process occupations
+9131/00,Industrial cleaning process occupations
+,"Packers, bottlers, canners and fillers"
+9132/00,"Packers, bottlers, canners and fillers"
+,Elementary process plant occupations n.e.c.
+9139/00,Elementary process plant occupations n.e.c.
+,ELEMENTARY ADMINISTRATION AND SERVICE OCCUPATIONS
+,Elementary Administration Occupations
+,"Postal workers, mail sorters and messengers"
+9211/01,Postal delivery workers
+9211/02,Mail sorters
+9211/99,"Postal workers, mail sorters and messengers n.e.c."
+,Elementary administration occupations n.e.c.
+9219/01,Reprographics assistants
+9219/99,Elementary administration occupations n.e.c.
+,Elementary Cleaning Occupations
+,Window cleaners
+9221/00,Window cleaners
+,Street cleaners
+9222/00,Street cleaners
+,Cleaners and domestics
+9223/01,Commercial cleaners
+9223/02,Private house cleaners
+9223/99,Cleaners and domestics n.e.c.
+,"Launderers, dry cleaners and pressers"
+9224/01,Carpet cleaners
+9224/02,Dry cleaners and laundry workers
+9224/03,Ironers and pressers
+9224/99,"Launderers, dry cleaners and pressers n.e.c."
+,Refuse and salvage occupations
+9225/01,Recycling operatives
+9225/02,Refuse collectors
+9225/99,Refuse and salvage occupations n.e.c.
+,Vehicle valeters and cleaners
+9226/00,Vehicle valeters and cleaners
+,Elementary cleaning occupations n.e.c.
+9229/01,Bin cleaners
+9229/02,Chimney sweepers
+9229/03,Drain cleaners
+9229/04,Toilet attendants
+9229/99,Elementary cleaning occupations n.e.c.
+,Elementary Security Occupations
+,Security guards and related occupations
+9231/01,CCTV operators (excludes drain surveying)
+9231/02,Court ushers
+9231/03,Detention officers
+9231/04,Door supervisors
+9231/99,Security guards and related occupations n.e.c.
+,School midday and crossing patrol occupations
+9232/00,School midday and crossing patrol occupations
+,Exam invigilators
+9233/00,Exam invigilators
+,Elementary Sales Occupations
+,Shelf fillers
+9241/00,Shelf fillers
+,Elementary sales occupations n.e.c.
+9249/01,Retail order pickers
+9249/02,Trolley collectors
+9249/99,Elementary sales occupations n.e.c.
+,Elementary Storage Occupations
+,Elementary storage supervisors
+9251/00,Elementary storage supervisors
+,Warehouse operatives
+9252/00,Warehouse operatives
+,Delivery operatives
+9253/00,Delivery operatives
+,Elementary storage occupations n.e.c.
+9259/01,"Dockers, slingers and stevedores"
+9259/99,Elementary storage occupations n.e.c.
+,Other Elementary Services Occupations
+,Bar and catering supervisors
+9261/00,Bar and catering supervisors
+,Hospital porters
+9262/00,Hospital porters
+,Kitchen and catering assistants
+9263/00,Kitchen and catering assistants
+,Waiters and waitresses
+9264/00,Waiters and waitresses
+,Bar staff
+9265/00,Bar staff
+,Coffee shop workers
+9266/00,Coffee shop workers
+,Leisure and theme park attendants
+9267/01,Arcade attendants
+9267/02,Cinema and theatre attendants
+9267/03,Event stewards
+9267/04,Gallery and museum attendants
+9267/05,Ride attendants
+9267/99,Leisure and theme park attendants n.e.c.
+,Other elementary services occupations n.e.c.
+9269/01,Bingo callers and assistants
+9269/02,"Clairvoyants, mediums and astrologers"
+9269/03,Stagehands
+9269/04,Turnstile operators
+9269/99,Other elementary service occupations n.e.c.

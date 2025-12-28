@@ -6,6 +6,13 @@ from utils.core import *
 font = pygame.font.SysFont('Grand9K Pixel',25)
 font_small = pygame.font.SysFont('Grand9K Pixel',18)
 
+font_alt = pygame.font.Font('./assets/Helvetica Neue LT Std/Helvetica Neue LT Std 93 Black Extended/Helvetica Neue LT Std 93 Black Extended.otf', 24)
+font_timer = pygame.font.Font('./assets/Helvetica Neue LT Std/Helvetica Neue LT Std 53 Extended/Helvetica Neue LT Std 53 Extended.otf', 32)
+font_thin = pygame.font.Font('./assets/Helvetica Neue LT Std/Helvetica Neue LT Std 53 Extended/Helvetica Neue LT Std 53 Extended.otf', 22)
+font_thin_small = pygame.font.Font('./assets/Helvetica Neue LT Std/Helvetica Neue LT Std 53 Extended/Helvetica Neue LT Std 53 Extended.otf', 14)
+font_email = pygame.font.Font('./assets/Helvetica Neue LT Std/Helvetica Neue LT Std 53 Extended/Helvetica Neue LT Std 53 Extended.otf', 16)
+font_alt_big = pygame.font.Font('./assets/Helvetica Neue LT Std/Helvetica Neue LT Std 93 Black Extended/Helvetica Neue LT Std 93 Black Extended.otf', 28)
+
 text_newday = font.render('Next Day', False, (0, 0, 0))
 text_newday_size = font.size('Next Day')
 
